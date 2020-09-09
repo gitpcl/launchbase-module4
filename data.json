@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "name": "May Gasp",
+      "email": "maygasp@mail.com",
+      "birth": 635472000000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "90",
+      "height": "140"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1504911539020-cfb0f7887a5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Maya Gspr",
+      "email": "mayagspr@mail.com",
+      "birth": 567993600000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "100",
+      "height": "180"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+      "name": "Boris Johnson",
+      "birth": 567993600000,
+      "gender": "M",
+      "services": "Weight Training",
+      "created_at": 1597976525865
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80",
+      "name": "Vlad Kubrik",
+      "birth": 318297600000,
+      "gender": "M",
+      "services": "Crossfit, Weight Training ",
+      "created_at": 1597977382215
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Bobby Chuck",
+      "birth": 479174400000,
+      "gender": "M",
+      "services": "Yoga, Weight Training",
+      "created_at": 1597977446149
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18017083?s=400&u=efa162ed5c88f927283a47e2e304c5f6b7fe65a8&v=4",
+      "name": "Pedro Lopes",
+      "birth": 579312000000,
+      "gender": "M",
+      "services": "Founder, Developer, Runner",
+      "created_at": 1597977489372
+    }
+  ]
+}
